@@ -2,17 +2,17 @@
 <h1 align="center">Projects</h1>
 
 ### [Mag UI](https://github.com/blackboardd/magui)
-💄 A Reakit theme developed with TypeScript. 
+💄 A Reakit theme developed with TypeScript and styled components
 ### [Book Builder](https://github.com/blackboardd/book-builder)
-📕 Still in development: A 3D book builder for e-commerce applications with the ability to generate books in bulk based on dust jacket uploads. 
+📕 Book builder for e-commerce applications that generates 3D books in bulk
 ### [XPS Upcharge](https://github.com/blackboardd/xps-upcharge)
-📦 Tampermonkey / Greasemonkey userscript that modifies XPS Shipper to inject a tab for modifying percentages for the different available providers to apply an upcharge to the total rate. 
+📦 Userscript that modifies XPS Shipper to inject cost mutator
 ### [Gadfly](https://github.com/blackboardd/gadfly)
-🪰 Gadfly is a Google Apps Script homework helper for pulling definitions on assignments where you are given a list of terms. 
+🪰 Google Apps Script homework helper for pulling definitions on assignments
 ### [Automated Canvas Conversations](https://github.com/blackboardd/automated-canvas-conversations)
-🎓 Small CLI application that allows you to append messages to existing conversation threads on Instructure Canvas as well as schedule them using crontab. 
+🎓 CLI application for appending messages to Canvas conversation threads
 ### [Yarn Project Template](https://github.com/blackboardd/yarn-project-template)
-🥾 Template that I use for my projects. It uses TypeScript, React, Express, Yarn, Babel, Webpack, GitHub Actions, Storybook, Styled Components, MUI, and Style Dictionary as building blocks for a foundational template. 
+🥾 Template for my React and Node projects
 
 <br />
 
