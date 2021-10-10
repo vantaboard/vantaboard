@@ -1,4 +1,5 @@
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_upper.jpg)
+[![blackboardd's github activity graph](https://activity-graph.herokuapp.com/graph?username=blackboardd&theme=minimal)](https://github.com/blackboardd)
 ### [Mag UI](https://github.com/blackboardd/magui)
 💄 Reakit theme developed with TypeScript
 ### [Book Builder](https://github.com/blackboardd/book-builder)
