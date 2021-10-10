@@ -1,4 +1,4 @@
-![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/new_banner.jpg)
+![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_upper.jpg)
 <h1 align="center">Projects</h1>
 
 ### [Mag UI](https://github.com/blackboardd/magui)
@@ -13,3 +13,7 @@
 🎓 Small CLI application that allows you to append messages to existing conversation threads on Instructure Canvas as well as schedule them using crontab. 
 ### [Yarn Project Template](https://github.com/blackboardd/yarn-project-template)
 🥾 Template that I use for my projects. It uses TypeScript, React, Express, Yarn, Babel, Webpack, GitHub Actions, Storybook, Styled Components, MUI, and Style Dictionary as building blocks for a foundational template. 
+
+<br />
+
+![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_lower.jpg)
