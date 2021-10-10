@@ -18,7 +18,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=blackboardd&show_icons=true&custom_title=Stats&theme=minimal&include_all_commits=true&cache_seconds=86400" alt="blackboardd Stats" />
+[<img src="https://github-readme-stats.vercel.app/api?username=blackboardd&show_icons=true&custom_title=Stats&theme=minimal&include_all_commits=true&cache_seconds=86400" alt="blackboardd Stats" />](https://github.com/blackboardd)
 </div>
 
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_lower.jpg)
