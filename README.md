@@ -12,7 +12,7 @@
 📕 3D book editor for e-commerce applications
 ### [Mag UI](https://github.com/blackboardd/magui)
 💄 Reakit theme developed with TypeScript
-### [Yarn Project Template](https://github.com/blackboardd/yarn-project-template)
+### [Template](https://github.com/blackboardd/yarn-project-template)
 🥾 Template for my React and Node projects
 <br />
 
