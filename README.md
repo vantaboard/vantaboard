@@ -12,4 +12,6 @@
 ### [Yarn Project Template](https://github.com/blackboardd/yarn-project-template)
 🥾 Template for my React and Node projects
 <br />
+<br />
+
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_lower.jpg)
