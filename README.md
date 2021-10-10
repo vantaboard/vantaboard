@@ -2,7 +2,7 @@
 ### [Mag UI](https://github.com/blackboardd/magui)
 💄 A Reakit theme developed with TypeScript
 ### [Book Builder](https://github.com/blackboardd/book-builder)
-📕 Book builder for e-commerce applications
+📕 3D book editor for e-commerce applications
 ### [XPS Upcharge](https://github.com/blackboardd/xps-upcharge)
 📦 Userscript that modifies XPS Shipper
 ### [Gadfly](https://github.com/blackboardd/gadfly)
