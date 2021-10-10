@@ -2,16 +2,16 @@
 [![blackboardd's github activity graph](https://activity-graph.herokuapp.com/graph?username=blackboardd&custom_title=Contribution%20Graph&theme=minimal)](https://github.com/blackboardd)
 <div align="center">
 
-### [Mag UI](https://github.com/blackboardd/magui)
-💄 Reakit theme developed with TypeScript
-### [Book Builder](https://github.com/blackboardd/book-builder)
-📕 3D book editor for e-commerce applications
 ### [XPS Upcharge](https://github.com/blackboardd/xps-upcharge)
 📦 Userscript that modifies XPS Shipper
 ### [Gadfly](https://github.com/blackboardd/gadfly)
 🪰 Google Apps Script homework helper
 ### [Automated Canvas Conversations](https://github.com/blackboardd/automated-canvas-conversations)
 🎓 CLI application for Canvas messaging
+### [Book Builder](https://github.com/blackboardd/book-builder)
+📕 3D book editor for e-commerce applications
+### [Mag UI](https://github.com/blackboardd/magui)
+💄 Reakit theme developed with TypeScript
 ### [Yarn Project Template](https://github.com/blackboardd/yarn-project-template)
 🥾 Template for my React and Node projects
 <br />
