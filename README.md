@@ -6,7 +6,7 @@
 📦 Userscript that modifies XPS Shipper
 ### [Gadfly](https://github.com/blackboardd/gadfly)
 🪰 Google Apps Script homework helper
-### [Automated Canvas Conversations](https://github.com/blackboardd/automated-canvas-conversations)
+### [Canvas CLI](https://github.com/blackboardd/canvas-cli)
 🎓 CLI application for Canvas messaging
 ### [Book Builder](https://github.com/blackboardd/book-builder)
 📕 3D book editor for e-commerce applications
