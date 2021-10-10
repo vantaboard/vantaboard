@@ -1,6 +1,6 @@
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_upper.jpg)
 ### [Mag UI](https://github.com/blackboardd/magui)
-💄 A Reakit theme developed with TypeScript
+💄 Reakit theme developed with TypeScript
 ### [Book Builder](https://github.com/blackboardd/book-builder)
 📕 3D book editor for e-commerce applications
 ### [XPS Upcharge](https://github.com/blackboardd/xps-upcharge)
