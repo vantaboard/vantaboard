@@ -10,5 +10,6 @@
 ### [Automated Canvas Conversations](https://github.com/blackboardd/automated-canvas-conversations)
 🎓 CLI application for appending messages to Canvas conversation threads
 ### [Yarn Project Template](https://github.com/blackboardd/yarn-project-template)
-🥾 Template for my React and Node projects <br />
+🥾 Template for my React and Node projects
+<br />
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_lower.jpg)
