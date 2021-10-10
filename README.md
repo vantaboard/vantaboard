@@ -1,5 +1,7 @@
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/banner_upper.jpg)
 [![blackboardd's github activity graph](https://activity-graph.herokuapp.com/graph?username=blackboardd&custom_title=Contribution%20Graph&theme=minimal)](https://github.com/blackboardd)
+<div align="center">
+
 ### [Mag UI](https://github.com/blackboardd/magui)
 💄 Reakit theme developed with TypeScript
 ### [Book Builder](https://github.com/blackboardd/book-builder)
@@ -14,8 +16,8 @@
 🥾 Template for my React and Node projects
 <br />
 
+<br />
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=blackboardd&show_icons=true&custom_title=Stats&theme=minimal&include_all_commits=true&cache_seconds=86400" alt="blackboardd Stats" />
 </div>
 
