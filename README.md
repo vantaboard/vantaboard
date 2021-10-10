@@ -1,5 +1,6 @@
 ![Aluminum unicorn from Blade Runner (1982)](/assets/images/header/new_banner.jpg)
 <h1 align="center">Projects</h1>
+
 ### [Mag UI](https://github.com/blackboardd/magui)
 💄 A Reakit theme developed with TypeScript. 
 ### [Book Builder](https://github.com/blackboardd/book-builder)
