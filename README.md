@@ -1,4 +1,4 @@
-[![strawberry banner](/assets/images/header/banner_upper.jpg)][sponsor]
+[![strawberry banner](/assets/images/header/banner_upper.png)][sponsor]
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 </div>
 
-[![strawberry banner](/assets/images/header/banner_lower.jpg)][sponsor]
+[![strawberry banner](/assets/images/header/banner_lower.png)][sponsor]
 
   [sponsor]:    https://github.com/sponsors/blackboardd
   [xps-upcharge]: https://github.com/blackboardd/xps-upcharge
