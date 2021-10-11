@@ -19,7 +19,7 @@
 
 <br />
 
-[![blackboardd's github activity graph](https://activity-graph.herokuapp.com/graph?username=blackboardd&hide_title=true&hide_border=true&theme=minimal&line=f03a17&point=107c10&color=57606a)](https://github.com/sponsors/blackboardd)
+![contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackboardd&theme=github)
 
 </div>
 
