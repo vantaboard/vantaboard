@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Discord](https://dcbadge.vercel.app/api/shield/730650352436772874)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
