@@ -1,19 +1,17 @@
+name: Waka README
+
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
     schedule:
       # At minute 30 past every 6th hour from 0 through 23
       - cron: '30 0-23/6 * * *'
 
-  jobs:
-    update-readme:
-      name: Update this repo's Readme
-      runs-on: ubuntu-latest
-      steps:
-      - name: Profile Readme Development Stats
-        uses: anmol098/waka-readme-stats@V3
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
