@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Discord](https://dcbadge.vercel.app/api/shield/730650352436772874) [![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
+[![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=blackboardd&show_icons=true&hide_title=true&theme=minimal&include_all_commits=true&count_private=true&line_height=32&hide=contribs,stars&hide_rank=true&icon_color=f03a17&border_radius=10" alt="blackboardd Stats" />][sponsor] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackboardd&layout=compact&langs_count=6&border_radius=10&card_width=235&custom_title=Languages)][sponsor]
 
