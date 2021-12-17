@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Discord](https://dcbadge.vercel.app/api/shield/730650352436772874)
+![Discord](https://dcbadge.vercel.app/api/shield/730650352436772874) [![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
