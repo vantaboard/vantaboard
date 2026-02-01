@@ -1,14 +1,13 @@
 [![strawberry banner](/assets/images/header/banner_upper.png)][sponsor]
 
-<div style="display: inline-block; width: 100%"
- align="center">
+<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081) <a href="https://github.com/sponsors/vantaboard" target="_blank" style="vertical-align: sub"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" /></a>
+[![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
 
 
 </div>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hi! My name is Brighten!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hi! My name is Brighten!  <a href="https://github.com/sponsors/vantaboard" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" /></a></h1>
 
 <p>Nice to see you here!</p>
 
