@@ -1,8 +1,9 @@
 [![strawberry banner](/assets/images/header/banner_upper.png)][sponsor]
 
-<div align="center">
+<div style="display: inline-block; width: 100%"
+ align="center">
 
-[![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
+[![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081) <a href="https://github.com/sponsors/vantaboard" target="_blank" style="vertical-align: sub"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" /></a>
 
 
 </div>
@@ -19,6 +20,11 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
@@ -33,8 +39,7 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/vantaboard" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://github.com/sponsors/vantaboard" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vantaboard/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/17369067/vantaboard" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/17369067?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
 
