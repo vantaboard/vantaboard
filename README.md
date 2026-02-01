@@ -4,15 +4,18 @@
 
 [![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=vantaboard&show_icons=true&hide_title=true&theme=minimal&include_all_commits=true&count_private=true&line_height=32&hide=contribs,stars&hide_rank=true&icon_color=f03a17&border_radius=10" alt="vantaboard Stats" />][sponsor] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vantaboard&layout=compact&langs_count=6&border_radius=10&card_width=235&custom_title=Languages)][sponsor]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][sponsor] [![GitHub followers](https://img.shields.io/github/followers/vantaboard?style=for-the-badge&logo=github&logoColor=white)][sponsor] [![GitHub user's stars](https://img.shields.io/github/stars/vantaboard?style=for-the-badge&logo=github&logoColor=white)][sponsor]
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=vantaboard&repo=canvas-cli&theme=minimal" height="100">][canvas-cli] [<img src="https://github-readme-stats.vercel.app/api/pin/?username=vantaboard&repo=shoppy&theme=minimal" height="100">][shoppy]
+**canvas-cli** · **shoppy**
+[![canvas-cli](https://img.shields.io/github/stars/vantaboard/canvas-cli?style=for-the-badge&logo=github&logoColor=white)][canvas-cli] [![shoppy](https://img.shields.io/github/stars/vantaboard/shoppy?style=for-the-badge&logo=github&logoColor=white)][shoppy]
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=vantaboard&repo=xps-upcharge&theme=minimal" height="100">][xps-upcharge] [<img src="https://github-readme-stats.vercel.app/api/pin/?username=vantaboard&repo=gadfly&theme=minimal" height="100">][gadfly]
+**xps-upcharge** · **gadfly**
+[![xps-upcharge](https://img.shields.io/github/stars/vantaboard/xps-upcharge?style=for-the-badge&logo=github&logoColor=white)][xps-upcharge] [![gadfly](https://img.shields.io/github/stars/vantaboard/gadfly?style=for-the-badge&logo=github&logoColor=white)][gadfly]
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=vantaboard&repo=magui&theme=minimal" height="100">][magui] [<img src="https://github-readme-stats.vercel.app/api/pin/?username=vantaboard&repo=yarn-project-template&theme=minimal" height="100">][yarn-project-template]
+**magui** · **yarn-project-template**
+[![magui](https://img.shields.io/github/stars/vantaboard/magui?style=for-the-badge&logo=github&logoColor=white)][magui] [![yarn-project-template](https://img.shields.io/github/stars/vantaboard/yarn-project-template?style=for-the-badge&logo=github&logoColor=white)][yarn-project-template]
 
-[![Brighten Tompkins StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=17369067)](https://stackoverflow.com/users/17369067/vantaboard)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17369067/vantaboard) [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/17369067?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17369067/vantaboard)
 
 <br />
 
