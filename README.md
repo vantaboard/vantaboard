@@ -1,12 +1,5 @@
 [![strawberry banner](/assets/images/header/banner_upper.png)][sponsor]
 
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/56436e5a-2b81-4ef7-ace1-b753a863b081.svg)](https://wakatime.com/@56436e5a-2b81-4ef7-ace1-b753a863b081)
-
-
-</div>
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> Hi! My name is Brighten!  <a href="https://github.com/sponsors/vantaboard" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" /></a></h1>
 
 <p>Nice to see you here!</p>
@@ -27,12 +20,12 @@
 
 <h3>Open source projects</h3>
 <ul>
+  <li><a href="https://github.com/vantaboard/bigquery-emulator"><b>bigquery-emulator</b></a></li>
+  <li><a href="https://github.com/vantaboard/dotfiles-unix"><b>dotfiles-unix</b></a></li>
+  <li><a href="https://github.com/vantaboard/better-shell"><b>better-shell</b></a></li>
   <li><a href="https://github.com/vantaboard/canvas-cli"><b>canvas-cli</b></a></li>
-  <li><a href="https://github.com/vantaboard/shoppy"><b>shoppy</b></a></li>
-  <li><a href="https://github.com/vantaboard/xps-upcharge"><b>xps-upcharge</b></a></li>
   <li><a href="https://github.com/vantaboard/gadfly"><b>gadfly</b></a></li>
-  <li><a href="https://github.com/vantaboard/magui"><b>magui</b></a></li>
-  <li><a href="https://github.com/vantaboard/yarn-project-template"><b>yarn-project-template</b></a></li>
+  <li><a href="https://github.com/vantaboard/xps-upcharge"><b>xps-upcharge</b></a></li>
 </ul>
 
 <h3>Where to find me</h3>
