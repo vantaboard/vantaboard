@@ -83,9 +83,14 @@
   <a href="https://github.com/sponsors/vantaboard" target="_blank"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vantaboard&theme=flat&no-frame=true&no-bg=true&margin-w=4&title_color=EA4AAA" alt="trophies" />
-</div>
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img alt="Public Sponsor" src="https://img.shields.io/badge/Public%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  <img alt="Pair Extraordinaire" src="https://img.shields.io/badge/Pair%20Extraordinaire-42BFA5?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="YOLO" src="https://img.shields.io/badge/YOLO-F7DF1E?style=for-the-badge&logo=github&logoColor=black" />
+  <img alt="Quickdraw" src="https://img.shields.io/badge/Quickdraw-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Pull Shark x3" src="https://img.shields.io/badge/Pull%20Shark%20×3-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <div align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=vantaboard&style=flat-square&color=EA4AAA" />
